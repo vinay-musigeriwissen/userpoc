@@ -10,6 +10,12 @@ This README would normally document whatever steps are necessary to get your app
 
 ### How do I get set up? ###
 
+To run the NODE react app
+
+* `cd user-app`
+* `npm install`
+* `npm start`
+
 To run the NODE api
 
 * `cd api`
