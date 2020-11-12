@@ -1,0 +1,19 @@
+{
+  "name": "users-poc",
+  "version": "1.0.0",
+  "description": "An application to add the user details, with the admin access to  view the user details, made using React as Frontend and Node + Mongo in backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://akshaywissen@bitbucket.org/akshaywissen/userspoc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/akshaywissen/userspoc#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
+}
